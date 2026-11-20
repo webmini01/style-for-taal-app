@@ -1,0 +1,61 @@
+{
+  "id": "mehendi",
+  "name": "Mehendi",
+  "category": "wedding",
+  "note": "Mehendi green · golden rangoli",
+  "sample": "Mehendi lagi haathon mein",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#173B1A",
+      "bg2": "#3F6B26",
+      "text": "#F4F1DE",
+      "dim": "#C9D3A6",
+      "hero": "#FFD36E",
+      "heroNumber": "#FFD36E",
+      "light": "#E9C46A"
+    }
+  ],
+  "anims": {
+    "normal": "bloom",
+    "hero": "bloom",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.3,
+    "pattern": {
+      "kind": "rangoli",
+      "opacity": 0.12
+    },
+    "particles": {
+      "kind": "sparkle",
+      "count": 12
+    }
+  },
+  "follow": "tint"
+}

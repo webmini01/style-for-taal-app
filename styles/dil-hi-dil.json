@@ -1,0 +1,56 @@
+{
+  "id": "dil-hi-dil",
+  "name": "Dil hi Dil",
+  "category": "love",
+  "note": "Pink hearts all over · bouncy",
+  "sample": "Dil tumhara hai",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FF8FB1",
+      "bg2": "#FFC2D4",
+      "text": "#FFFFFF",
+      "dim": "#FFF0F5",
+      "hero": "#7A0A35",
+      "light": "#FFFFFF"
+    }
+  ],
+  "anims": {
+    "normal": "pop",
+    "hero": "beat",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.1,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "pattern": {
+      "kind": "hearts",
+      "opacity": 0.3
+    }
+  },
+  "follow": "pulse"
+}

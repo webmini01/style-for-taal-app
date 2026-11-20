@@ -1,0 +1,61 @@
+{
+  "id": "aag",
+  "name": "Aag",
+  "category": "motivation",
+  "note": "Black fire · sparks rising · shining word",
+  "sample": "Andar ki aag jagao",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Teko",
+        "weight": 600,
+        "upper": true
+      },
+      "hero": {
+        "family": "Anton",
+        "weight": 400,
+        "upper": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Khand",
+        "weight": 700
+      },
+      "hero": {
+        "family": "Khand",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#080302",
+      "bg2": "#3A0E02",
+      "text": "#FFF1E6",
+      "dim": "#C9A28A",
+      "hero": "grad:#FFE29A,#FF5A1F",
+      "heroNumber": "#FF7A2E",
+      "light": "#FF7A1A"
+    }
+  ],
+  "anims": {
+    "normal": "slam",
+    "hero": "zoomIn",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.55,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.4,
+    "sweep": true,
+    "particles": {
+      "kind": "embers",
+      "count": 24
+    }
+  },
+  "follow": "lift",
+  "punch": 0.03
+}

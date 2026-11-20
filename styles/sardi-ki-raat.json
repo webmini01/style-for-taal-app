@@ -1,0 +1,61 @@
+{
+  "id": "sardi-ki-raat",
+  "name": "Sardi ki Raat",
+  "category": "sad",
+  "note": "Snow falling · cold blue",
+  "sample": "Thandi raat aur teri kami",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#0C1624",
+      "bg2": "#2B3F5C",
+      "text": "#E3ECF5",
+      "dim": "#8FA3BA",
+      "hero": "#CFE6FF",
+      "heroNumber": "#CFE6FF",
+      "glow": "rgba(200,225,255,0.4)",
+      "light": "#FFFFFF"
+    }
+  ],
+  "anims": {
+    "normal": "sink",
+    "hero": "sink",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.5,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.25,
+    "particles": {
+      "kind": "snow",
+      "count": 26
+    }
+  },
+  "follow": "dim",
+  "transition": 0.7
+}

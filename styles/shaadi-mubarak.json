@@ -1,0 +1,64 @@
+{
+  "id": "shaadi-mubarak",
+  "name": "Shaadi Mubarak",
+  "category": "wedding",
+  "note": "Maroon and gold · turning mandala",
+  "sample": "Shaadi Mubarak",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600,
+        "tracking": 0.1,
+        "upper": true
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#3A0612",
+      "bg2": "#7A1430",
+      "text": "#FBEBD8",
+      "dim": "#D9B48F",
+      "hero": "gold",
+      "heroNumber": "gold",
+      "light": "#E9B85A"
+    }
+  ],
+  "anims": {
+    "normal": "track",
+    "hero": "zoomIn",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.5,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.45,
+    "pattern": {
+      "kind": "mandala",
+      "opacity": 0.14
+    },
+    "sweep": true,
+    "particles": {
+      "kind": "petals",
+      "count": 10
+    }
+  },
+  "follow": "tint"
+}

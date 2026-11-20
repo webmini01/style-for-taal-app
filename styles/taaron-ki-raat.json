@@ -1,0 +1,62 @@
+{
+  "id": "taaron-ki-raat",
+  "name": "Taaron ki Raat",
+  "category": "shayari",
+  "note": "Starry sky · moon · quiet words",
+  "sample": "Taare gin ke raat guzri",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#03081A",
+      "bg2": "#141E44",
+      "text": "#E8EBF7",
+      "dim": "#9AA3C6",
+      "hero": "#FFE7A8",
+      "heroNumber": "#FFE7A8",
+      "glow": "rgba(255,230,160,0.4)",
+      "light": "#FFF6DA"
+    }
+  ],
+  "anims": {
+    "normal": "fade",
+    "hero": "fade",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.3,
+    "moon": 0.8,
+    "particles": {
+      "kind": "stars",
+      "count": 34
+    }
+  },
+  "follow": "tint",
+  "transition": 0.7
+}

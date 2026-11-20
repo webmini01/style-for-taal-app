@@ -1,0 +1,57 @@
+{
+  "id": "gulab-baarish",
+  "name": "Gulab Baarish",
+  "category": "love",
+  "note": "Rose petals falling · deep red",
+  "sample": "Tumhare liye gulab",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#2A0510",
+      "bg2": "#7A1230",
+      "text": "#FFF1F3",
+      "dim": "#F2BCC6",
+      "hero": "#FFC1CF",
+      "glow": "rgba(255,90,130,0.55)",
+      "light": "#E8335A"
+    }
+  ],
+  "anims": {
+    "normal": "fade",
+    "hero": "bloom",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.35,
+    "particles": {
+      "kind": "petals",
+      "count": 16
+    }
+  },
+  "follow": "tint"
+}

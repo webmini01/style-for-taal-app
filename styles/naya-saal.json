@@ -1,0 +1,61 @@
+{
+  "id": "naya-saal",
+  "name": "Naya Saal",
+  "category": "festival",
+  "note": "Midnight party · confetti and light",
+  "sample": "Happy New Year",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 800,
+        "upper": true
+      },
+      "hero": {
+        "family": "Anton",
+        "weight": 400,
+        "upper": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Khand",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#05060F",
+      "bg2": "#1B1F4A",
+      "text": "#FFFFFF",
+      "dim": "#A9B0D6",
+      "hero": "grad:#FFFFFF,#FFD36E",
+      "heroNumber": "#FFD36E",
+      "light": "#FFE3A3"
+    }
+  ],
+  "anims": {
+    "normal": "rise",
+    "hero": "zoomIn",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.3,
+    "rays": 0.25,
+    "sweep": true,
+    "particles": {
+      "kind": "confetti",
+      "count": 24
+    }
+  },
+  "follow": "lift"
+}

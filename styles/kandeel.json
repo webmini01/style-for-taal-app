@@ -1,0 +1,57 @@
+{
+  "id": "kandeel",
+  "name": "Kandeel",
+  "category": "love",
+  "note": "Sky lanterns rising · night blue",
+  "sample": "Har raat tumhari",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Kalam",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Kalam",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#050B1F",
+      "bg2": "#16285A",
+      "text": "#F3F1FF",
+      "dim": "#AEB6D9",
+      "hero": "#FFC870",
+      "glow": "rgba(255,180,90,0.55)",
+      "light": "#FF9A3C"
+    }
+  ],
+  "anims": {
+    "normal": "fade",
+    "hero": "bloom",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.4,
+    "particles": {
+      "kind": "lanterns",
+      "count": 10
+    }
+  },
+  "follow": "tint"
+}

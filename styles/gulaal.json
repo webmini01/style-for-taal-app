@@ -1,0 +1,57 @@
+{
+  "id": "gulaal",
+  "name": "Gulaal",
+  "category": "festival",
+  "note": "Holi colour clouds · bright words",
+  "sample": "Bura na mano Holi hai",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FFF6EC",
+      "bg2": "#FFFFFF",
+      "text": "#2B1B3D",
+      "dim": "#5A4870",
+      "hero": "#E5007E",
+      "heroNumber": "#E5007E"
+    }
+  ],
+  "anims": {
+    "normal": "stick",
+    "hero": "beat",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "gulal",
+      "count": 12
+    }
+  },
+  "follow": "pulse",
+  "maxWordsPerScene": 3
+}

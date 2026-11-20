@@ -8,6 +8,11 @@
       "emoji": "❤️"
     },
     {
+      "id": "wedding",
+      "name": "Shaadi",
+      "emoji": "💍"
+    },
+    {
       "id": "sad",
       "name": "Sad",
       "emoji": "💔"
@@ -45,6 +50,24 @@
   ],
   "styles": [
     {
+      "id": "aag",
+      "name": "Aag",
+      "category": "motivation",
+      "note": "Black fire · sparks rising · shining word",
+      "file": "styles/aag.json",
+      "thumb": "thumbs/aag.jpg",
+      "rev": "66dc67a303"
+    },
+    {
+      "id": "aarti",
+      "name": "Aarti",
+      "category": "bhakti",
+      "note": "Temple lamps · saffron mandala",
+      "file": "styles/aarti.json",
+      "thumb": "thumbs/aarti.jpg",
+      "rev": "27d3965dd0"
+    },
+    {
       "id": "baarish-yaad",
       "name": "Baarish ki Yaad",
       "category": "sad",
@@ -52,6 +75,15 @@
       "file": "styles/baarish-yaad.json",
       "thumb": "thumbs/baarish-yaad.jpg",
       "rev": "da34a14bcd"
+    },
+    {
+      "id": "baraat",
+      "name": "Baraat",
+      "category": "wedding",
+      "note": "Party night · confetti and gold",
+      "file": "styles/baraat.json",
+      "thumb": "thumbs/baraat.jpg",
+      "rev": "647613cc8d"
     },
     {
       "id": "cake-candy",
@@ -63,6 +95,24 @@
       "rev": "db46e4adad"
     },
     {
+      "id": "chand-raat",
+      "name": "Chand Raat",
+      "category": "festival",
+      "note": "Crescent moon · twinkling stars",
+      "file": "styles/chand-raat.json",
+      "thumb": "thumbs/chand-raat.jpg",
+      "rev": "30dd88ebbc"
+    },
+    {
+      "id": "confetti-blast",
+      "name": "Confetti Blast",
+      "category": "birthday",
+      "note": "Purple party · confetti falling",
+      "file": "styles/confetti-blast.json",
+      "thumb": "thumbs/confetti-blast.jpg",
+      "rev": "5141217c7b"
+    },
+    {
       "id": "corporate-blue",
       "name": "Corporate Blue",
       "category": "business",
@@ -70,6 +120,15 @@
       "file": "styles/corporate-blue.json",
       "thumb": "thumbs/corporate-blue.jpg",
       "rev": "afe85dff05"
+    },
+    {
+      "id": "dil-hi-dil",
+      "name": "Dil hi Dil",
+      "category": "love",
+      "note": "Pink hearts all over · bouncy",
+      "file": "styles/dil-hi-dil.json",
+      "thumb": "thumbs/dil-hi-dil.jpg",
+      "rev": "8132d565a3"
     },
     {
       "id": "dil-se",
@@ -90,6 +149,15 @@
       "rev": "fb309ee1db"
     },
     {
+      "id": "diye-ki-qatar",
+      "name": "Diye ki Qatar",
+      "category": "festival",
+      "note": "A row of diyas · rising sparks",
+      "file": "styles/diye-ki-qatar.json",
+      "thumb": "thumbs/diye-ki-qatar.jpg",
+      "rev": "2ed72b3194"
+    },
+    {
       "id": "dukaan-desi",
       "name": "Dukaan Desi",
       "category": "business",
@@ -106,6 +174,24 @@
       "file": "styles/eid-chand.json",
       "thumb": "thumbs/eid-chand.jpg",
       "rev": "e1d630056a"
+    },
+    {
+      "id": "gulaal",
+      "name": "Gulaal",
+      "category": "festival",
+      "note": "Holi colour clouds · bright words",
+      "file": "styles/gulaal.json",
+      "thumb": "thumbs/gulaal.jpg",
+      "rev": "21a7097d44"
+    },
+    {
+      "id": "gulab-baarish",
+      "name": "Gulab Baarish",
+      "category": "love",
+      "note": "Rose petals falling · deep red",
+      "file": "styles/gulab-baarish.json",
+      "thumb": "thumbs/gulab-baarish.jpg",
+      "rev": "9e689ad615"
     },
     {
       "id": "holi-rang",
@@ -144,6 +230,15 @@
       "rev": "4dbf608430"
     },
     {
+      "id": "kandeel",
+      "name": "Kandeel",
+      "category": "love",
+      "note": "Sky lanterns rising · night blue",
+      "file": "styles/kandeel.json",
+      "thumb": "thumbs/kandeel.jpg",
+      "rev": "12ef75adea"
+    },
+    {
       "id": "mandir-deep",
       "name": "Mandir Deep",
       "category": "bhakti",
@@ -153,6 +248,15 @@
       "rev": "a481c75c97"
     },
     {
+      "id": "mehendi",
+      "name": "Mehendi",
+      "category": "wedding",
+      "note": "Mehendi green · golden rangoli",
+      "file": "styles/mehendi.json",
+      "thumb": "thumbs/mehendi.jpg",
+      "rev": "f40dff60b8"
+    },
+    {
       "id": "mohabbat",
       "name": "Mohabbat",
       "category": "love",
@@ -160,6 +264,15 @@
       "file": "styles/mohabbat.json",
       "thumb": "thumbs/mohabbat.jpg",
       "rev": "2d90234c52"
+    },
+    {
+      "id": "naya-saal",
+      "name": "Naya Saal",
+      "category": "festival",
+      "note": "Midnight party · confetti and light",
+      "file": "styles/naya-saal.json",
+      "thumb": "thumbs/naya-saal.jpg",
+      "rev": "0a755ef989"
     },
     {
       "id": "offer-blast",
@@ -198,6 +311,15 @@
       "rev": "d71e2be1c2"
     },
     {
+      "id": "pastel-party",
+      "name": "Pastel Party",
+      "category": "birthday",
+      "note": "Soft pastel · confetti on white",
+      "file": "styles/pastel-party.json",
+      "thumb": "thumbs/pastel-party.jpg",
+      "rev": "984cd8145d"
+    },
+    {
       "id": "purana-kagaz",
       "name": "Purana Kagaz",
       "category": "shayari",
@@ -205,6 +327,24 @@
       "file": "styles/purana-kagaz.json",
       "thumb": "thumbs/purana-kagaz.jpg",
       "rev": "21d530708c"
+    },
+    {
+      "id": "sardi-ki-raat",
+      "name": "Sardi ki Raat",
+      "category": "sad",
+      "note": "Snow falling · cold blue",
+      "file": "styles/sardi-ki-raat.json",
+      "thumb": "thumbs/sardi-ki-raat.jpg",
+      "rev": "10aa2e986a"
+    },
+    {
+      "id": "shaadi-mubarak",
+      "name": "Shaadi Mubarak",
+      "category": "wedding",
+      "note": "Maroon and gold · turning mandala",
+      "file": "styles/shaadi-mubarak.json",
+      "thumb": "thumbs/shaadi-mubarak.jpg",
+      "rev": "2b44b5ad24"
     },
     {
       "id": "shaam",
@@ -241,6 +381,15 @@
       "file": "styles/sunehra-jashn.json",
       "thumb": "thumbs/sunehra-jashn.jpg",
       "rev": "ef7a76cb29"
+    },
+    {
+      "id": "taaron-ki-raat",
+      "name": "Taaron ki Raat",
+      "category": "shayari",
+      "note": "Starry sky · moon · quiet words",
+      "file": "styles/taaron-ki-raat.json",
+      "thumb": "thumbs/taaron-ki-raat.jpg",
+      "rev": "bbbfb9f63a"
     },
     {
       "id": "tanhai",

@@ -1,0 +1,60 @@
+{
+  "id": "baraat",
+  "name": "Baraat",
+  "category": "wedding",
+  "note": "Party night · confetti and gold",
+  "sample": "Aaj hai baraat",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Anton",
+        "weight": 400,
+        "upper": true
+      },
+      "hero": {
+        "family": "Anton",
+        "weight": 400,
+        "upper": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Khand",
+        "weight": 700
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#14051F",
+      "bg2": "#4A1260",
+      "text": "#FFFFFF",
+      "dim": "#E0C8F0",
+      "hero": "gold",
+      "heroNumber": "gold",
+      "light": "#FFD98A"
+    }
+  ],
+  "anims": {
+    "normal": "pop",
+    "hero": "stamp",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.4,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.4,
+    "sweep": true,
+    "particles": {
+      "kind": "confetti",
+      "count": 26
+    }
+  },
+  "follow": "pulse"
+}

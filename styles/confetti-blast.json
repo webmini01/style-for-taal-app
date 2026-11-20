@@ -1,0 +1,56 @@
+{
+  "id": "confetti-blast",
+  "name": "Confetti Blast",
+  "category": "birthday",
+  "note": "Purple party · confetti falling",
+  "sample": "Happy Birthday",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#22074A",
+      "bg2": "#6A1FD0",
+      "text": "#FFFFFF",
+      "dim": "#E3D3FF",
+      "hero": "#FFE14D",
+      "heroNumber": "#FFE14D"
+    }
+  ],
+  "anims": {
+    "normal": "pop",
+    "hero": "stamp",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.3,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "confetti",
+      "count": 28
+    }
+  },
+  "follow": "pulse"
+}

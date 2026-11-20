@@ -1,0 +1,63 @@
+{
+  "id": "diye-ki-qatar",
+  "name": "Diye ki Qatar",
+  "category": "festival",
+  "note": "A row of diyas · rising sparks",
+  "sample": "Happy Diwali",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#120600",
+      "bg2": "#4A1E00",
+      "text": "#FFEBC2",
+      "dim": "#E0B57A",
+      "hero": "gold",
+      "heroNumber": "gold",
+      "light": "#FF9D2E"
+    }
+  ],
+  "anims": {
+    "normal": "bloom",
+    "hero": "zoomIn",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.5,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.5,
+    "diyas": 7,
+    "pattern": {
+      "kind": "rangoli",
+      "opacity": 0.08
+    },
+    "sweep": true,
+    "particles": {
+      "kind": "embers",
+      "count": 18
+    }
+  },
+  "follow": "tint"
+}

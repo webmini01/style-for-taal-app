@@ -1,0 +1,56 @@
+{
+  "id": "pastel-party",
+  "name": "Pastel Party",
+  "category": "birthday",
+  "note": "Soft pastel · confetti on white",
+  "sample": "Aaj tumhara din hai",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FFF7FB",
+      "bg2": "#EAF4FF",
+      "text": "#3A2A5A",
+      "dim": "#6A5A8A",
+      "hero": "#FF4F8B",
+      "heroNumber": "#FF4F8B"
+    }
+  ],
+  "anims": {
+    "normal": "pop",
+    "hero": "beat",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "confetti",
+      "count": 22
+    }
+  },
+  "follow": "pulse"
+}

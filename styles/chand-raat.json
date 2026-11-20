@@ -1,0 +1,58 @@
+{
+  "id": "chand-raat",
+  "name": "Chand Raat",
+  "category": "festival",
+  "note": "Crescent moon · twinkling stars",
+  "sample": "Chand Mubarak",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#04122A",
+      "bg2": "#0D3B4F",
+      "text": "#EAF4F4",
+      "dim": "#9FC2C6",
+      "hero": "grad:#FFF3C4,#D4A84B",
+      "heroNumber": "#F3D27A",
+      "light": "#FFF1C1"
+    }
+  ],
+  "anims": {
+    "normal": "fade",
+    "hero": "bloom",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.4,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.35,
+    "moon": 1,
+    "particles": {
+      "kind": "stars",
+      "count": 30
+    }
+  },
+  "follow": "tint"
+}

@@ -5,6 +5,11 @@
     "emoji": "❤️"
   },
   {
+    "id": "wedding",
+    "name": "Shaadi",
+    "emoji": "💍"
+  },
+  {
     "id": "sad",
     "name": "Sad",
     "emoji": "💔"
