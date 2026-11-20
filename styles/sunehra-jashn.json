@@ -1,0 +1,61 @@
+{
+  "id": "sunehra-jashn",
+  "name": "Sunehra Jashn",
+  "category": "birthday",
+  "note": "Black and gold · big capitals",
+  "sample": "Happy Birthday",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600,
+        "tracking": 0.08,
+        "upper": true
+      },
+      "hero": {
+        "family": "Anton",
+        "weight": 400,
+        "upper": true,
+        "tracking": 0.02
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#0A0A0A",
+      "bg2": "#2A2210",
+      "text": "#F5EBD0",
+      "dim": "#BFAE85",
+      "hero": "gold",
+      "heroNumber": "gold",
+      "light": "#FFD98A"
+    }
+  ],
+  "anims": {
+    "normal": "rise",
+    "hero": "zoomIn",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.5,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.45,
+    "particles": {
+      "kind": "sparkle",
+      "count": 18
+    }
+  },
+  "follow": "lift"
+}

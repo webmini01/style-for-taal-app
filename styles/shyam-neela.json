@@ -1,0 +1,58 @@
+{
+  "id": "shyam-neela",
+  "name": "Shyam Neela",
+  "category": "bhakti",
+  "note": "Krishna blue · soft lights",
+  "sample": "Radhe Radhe",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#06143A",
+      "bg2": "#1B3B8A",
+      "text": "#EAF0FF",
+      "dim": "#A9B8E0",
+      "hero": "#FFD27A",
+      "heroNumber": "#FFD27A",
+      "glow": "rgba(255,210,120,0.55)",
+      "light": "#CFE0FF"
+    }
+  ],
+  "anims": {
+    "normal": "fade",
+    "hero": "bloom",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.4,
+    "particles": {
+      "kind": "bokeh",
+      "count": 10
+    }
+  },
+  "follow": "tint"
+}

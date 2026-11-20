@@ -1,0 +1,42 @@
+[
+  {
+    "id": "love",
+    "name": "Love",
+    "emoji": "❤️"
+  },
+  {
+    "id": "sad",
+    "name": "Sad",
+    "emoji": "💔"
+  },
+  {
+    "id": "festival",
+    "name": "Festival",
+    "emoji": "🪔"
+  },
+  {
+    "id": "birthday",
+    "name": "Birthday",
+    "emoji": "🎂"
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "emoji": "💼"
+  },
+  {
+    "id": "motivation",
+    "name": "Motivation",
+    "emoji": "🔥"
+  },
+  {
+    "id": "bhakti",
+    "name": "Bhakti",
+    "emoji": "🙏"
+  },
+  {
+    "id": "shayari",
+    "name": "Shayari",
+    "emoji": "✍️"
+  }
+]

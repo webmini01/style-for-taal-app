@@ -1,0 +1,57 @@
+{
+  "id": "toota-dil",
+  "name": "Toota Dil",
+  "category": "sad",
+  "note": "Dark red · hand-written word",
+  "sample": "Dil toot gaya yaar",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Kalam",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Kalam",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#1A0B0B",
+      "bg2": "#3A1414",
+      "text": "#E8D6D6",
+      "dim": "#A88C8C",
+      "hero": "#FF6B6B",
+      "glow": "rgba(255,90,90,0.45)",
+      "light": "#D9B3B3"
+    }
+  ],
+  "anims": {
+    "normal": "fade",
+    "hero": "write",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0.05,
+    "vignette": 0.55,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.3,
+    "particles": {
+      "kind": "dust",
+      "count": 14
+    }
+  },
+  "follow": "dim"
+}

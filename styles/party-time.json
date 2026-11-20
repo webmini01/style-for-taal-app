@@ -1,0 +1,58 @@
+{
+  "id": "party-time",
+  "name": "Party Time",
+  "category": "birthday",
+  "note": "Purple party · word in a pink box",
+  "sample": "Happy Birthday yaar",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#2B0A5E",
+      "bg2": "#7B2FF7",
+      "text": "#FFFFFF",
+      "dim": "#E5D6FF",
+      "hero": "#FFFFFF",
+      "heroNumber": "#FFE14D",
+      "heroBox": "#FF4FA3"
+    }
+  ],
+  "anims": {
+    "normal": "pop",
+    "hero": "stamp",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.3,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "sparkle",
+      "count": 20
+    }
+  },
+  "heroStyle": "box",
+  "follow": "pulse"
+}

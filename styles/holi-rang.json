@@ -1,0 +1,62 @@
+{
+  "id": "holi-rang",
+  "name": "Holi Rang",
+  "category": "festival",
+  "note": "Bright colours · sticker words",
+  "sample": "Happy Holi",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FF3CAC",
+      "bg2": "#FFD23F",
+      "text": "#FFFFFF",
+      "dim": "#FFFFFF",
+      "rest": "#FFE3F1",
+      "hero": "#3DFFB0"
+    }
+  ],
+  "anims": {
+    "normal": "stick",
+    "hero": "stick",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "sparkle",
+      "count": 14
+    }
+  },
+  "outline": {
+    "color": "#1B0B2E",
+    "width": 0.07,
+    "shadow": "#1B0B2E"
+  },
+  "follow": "pulse",
+  "maxWordsPerScene": 3
+}

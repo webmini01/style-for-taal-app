@@ -1,0 +1,57 @@
+{
+  "id": "baarish-yaad",
+  "name": "Baarish ki Yaad",
+  "category": "sad",
+  "note": "Blue night rain · soft light",
+  "sample": "Baarish mein teri yaad",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Kalam",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Kalam",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#0B1A2A",
+      "bg2": "#1F3B57",
+      "text": "#E6F0F8",
+      "dim": "#9DB3C6",
+      "hero": "#9FD3FF",
+      "glow": "rgba(140,200,255,0.5)",
+      "light": "#BFD9EE"
+    }
+  ],
+  "anims": {
+    "normal": "drop",
+    "hero": "fade",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.5,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.35,
+    "particles": {
+      "kind": "rain",
+      "count": 18
+    }
+  },
+  "follow": "tint"
+}

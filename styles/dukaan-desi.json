@@ -1,0 +1,54 @@
+{
+  "id": "dukaan-desi",
+  "name": "Dukaan Desi",
+  "category": "business",
+  "note": "Warm cream · desi stamp",
+  "sample": "Shuddh desi ghee",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Khand",
+        "weight": 700,
+        "upper": true,
+        "tracking": 0.02
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Khand",
+        "weight": 700
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FFF4E0",
+      "bg2": "#FFE2B8",
+      "text": "#3B2205",
+      "dim": "#6E4A1E",
+      "hero": "#D9480F",
+      "heroNumber": "#D9480F"
+    }
+  ],
+  "anims": {
+    "normal": "swing",
+    "hero": "stamp",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0.06,
+    "vignette": 0.2,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0
+  },
+  "follow": "lift"
+}

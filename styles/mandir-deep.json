@@ -1,0 +1,57 @@
+{
+  "id": "mandir-deep",
+  "name": "Mandir Deep",
+  "category": "bhakti",
+  "note": "Temple lamps · golden word",
+  "sample": "Jai Shri Ram",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#2A0A00",
+      "bg2": "#6B2A00",
+      "text": "#FFE6B3",
+      "dim": "#D9AE6E",
+      "hero": "gold",
+      "heroNumber": "gold",
+      "light": "#FFC861"
+    }
+  ],
+  "anims": {
+    "normal": "bloom",
+    "hero": "bloom",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.5,
+    "letterbox": 0,
+    "leak": 0.15,
+    "glow": 0.5,
+    "particles": {
+      "kind": "sparkle",
+      "count": 16
+    }
+  },
+  "follow": "tint"
+}

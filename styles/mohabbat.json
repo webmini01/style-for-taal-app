@@ -1,0 +1,62 @@
+{
+  "id": "mohabbat",
+  "name": "Mohabbat",
+  "category": "love",
+  "note": "Deep maroon · golden italic word",
+  "sample": "Mohabbat ho gayi",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600,
+        "tracking": 0.12,
+        "upper": true
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#2B0710",
+      "bg2": "#6B1027",
+      "text": "#F6E7E1",
+      "dim": "#C9A2A0",
+      "hero": "gold",
+      "heroNumber": "gold",
+      "light": "#FFD98A"
+    }
+  ],
+  "anims": {
+    "normal": "track",
+    "hero": "fade",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.5,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.4,
+    "particles": {
+      "kind": "dust",
+      "count": 12
+    }
+  },
+  "follow": "tint",
+  "heroRule": true
+}

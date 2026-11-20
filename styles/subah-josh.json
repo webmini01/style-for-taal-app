@@ -1,0 +1,53 @@
+{
+  "id": "subah-josh",
+  "name": "Subah ka Josh",
+  "category": "motivation",
+  "note": "Sunrise orange · bold words",
+  "sample": "Aaj se shuruaat karo",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Poppins",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Mukta",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FF7A18",
+      "bg2": "#FFD200",
+      "text": "#2A1300",
+      "dim": "#5A3200",
+      "hero": "#FFFFFF",
+      "heroNumber": "#FFFFFF",
+      "glow": "rgba(120,40,0,0.45)"
+    }
+  ],
+  "anims": {
+    "normal": "rise",
+    "hero": "pop",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.15,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.3
+  },
+  "follow": "pulse"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cake-candy",
+  "name": "Cake Candy",
+  "category": "birthday",
+  "note": "Pastel sweet · bouncy words",
+  "sample": "Aaj tumhara din hai",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Baloo 2",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Baloo 2",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FFE5F1",
+      "bg2": "#E6F0FF",
+      "text": "#3A2A5A",
+      "dim": "#6A5A8A",
+      "hero": "#FF4F8B",
+      "light": "#FFB3D1"
+    }
+  ],
+  "anims": {
+    "normal": "pop",
+    "hero": "beat",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "hearts",
+      "count": 6
+    }
+  },
+  "follow": "pulse"
+}

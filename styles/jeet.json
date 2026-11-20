@@ -1,0 +1,61 @@
+{
+  "id": "jeet",
+  "name": "Jeet",
+  "category": "motivation",
+  "note": "Black and red · hard hitting",
+  "sample": "Haar mat maan",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Teko",
+        "weight": 600,
+        "upper": true
+      },
+      "hero": {
+        "family": "Anton",
+        "weight": 400,
+        "upper": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Khand",
+        "weight": 700
+      },
+      "hero": {
+        "family": "Khand",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#000000",
+      "bg2": "#1A1A1A",
+      "text": "#FFFFFF",
+      "dim": "#9A9A9A",
+      "hero": "#FF3B30",
+      "heroNumber": "#FF3B30",
+      "light": "#FF6B5E"
+    }
+  ],
+  "anims": {
+    "normal": "slam",
+    "hero": "zoomIn",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0.05,
+    "vignette": 0.5,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "streak",
+      "count": 10
+    }
+  },
+  "follow": "lift",
+  "punch": 0.03,
+  "shake": 0.004
+}

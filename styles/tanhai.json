@@ -1,0 +1,60 @@
+{
+  "id": "tanhai",
+  "name": "Tanhai",
+  "category": "sad",
+  "note": "Black and grey · quiet rain",
+  "sample": "Ab koi nahi apna",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#0C0D10",
+      "bg2": "#22252B",
+      "text": "#C9CDD4",
+      "dim": "#7C828C",
+      "hero": "#FFFFFF",
+      "glow": "rgba(255,255,255,0.25)",
+      "light": "#9AA3AE"
+    }
+  ],
+  "anims": {
+    "normal": "sink",
+    "hero": "sink",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0.06,
+    "vignette": 0.6,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.2,
+    "particles": {
+      "kind": "rain",
+      "count": 12
+    }
+  },
+  "follow": "dim",
+  "transition": 0.7
+}

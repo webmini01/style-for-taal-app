@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "updated": "2026-11-20",
+  "categories": [
+    {
+      "id": "love",
+      "name": "Love",
+      "emoji": "❤️"
+    },
+    {
+      "id": "sad",
+      "name": "Sad",
+      "emoji": "💔"
+    },
+    {
+      "id": "festival",
+      "name": "Festival",
+      "emoji": "🪔"
+    },
+    {
+      "id": "birthday",
+      "name": "Birthday",
+      "emoji": "🎂"
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "emoji": "💼"
+    },
+    {
+      "id": "motivation",
+      "name": "Motivation",
+      "emoji": "🔥"
+    },
+    {
+      "id": "bhakti",
+      "name": "Bhakti",
+      "emoji": "🙏"
+    },
+    {
+      "id": "shayari",
+      "name": "Shayari",
+      "emoji": "✍️"
+    }
+  ],
+  "styles": [
+    {
+      "id": "baarish-yaad",
+      "name": "Baarish ki Yaad",
+      "category": "sad",
+      "note": "Blue night rain · soft light",
+      "file": "styles/baarish-yaad.json",
+      "thumb": "thumbs/baarish-yaad.jpg",
+      "rev": "da34a14bcd"
+    },
+    {
+      "id": "cake-candy",
+      "name": "Cake Candy",
+      "category": "birthday",
+      "note": "Pastel sweet · bouncy words",
+      "file": "styles/cake-candy.json",
+      "thumb": "thumbs/cake-candy.jpg",
+      "rev": "db46e4adad"
+    },
+    {
+      "id": "corporate-blue",
+      "name": "Corporate Blue",
+      "category": "business",
+      "note": "Clean navy · line under each word",
+      "file": "styles/corporate-blue.json",
+      "thumb": "thumbs/corporate-blue.jpg",
+      "rev": "afe85dff05"
+    },
+    {
+      "id": "dil-se",
+      "name": "Dil Se",
+      "category": "love",
+      "note": "Soft pink · heart by the key word",
+      "file": "styles/dil-se.json",
+      "thumb": "thumbs/dil-se.jpg",
+      "rev": "c4a923e53b"
+    },
+    {
+      "id": "diya-roshni",
+      "name": "Diya Roshni",
+      "category": "festival",
+      "note": "Diwali gold · warm sparkles",
+      "file": "styles/diya-roshni.json",
+      "thumb": "thumbs/diya-roshni.jpg",
+      "rev": "fb309ee1db"
+    },
+    {
+      "id": "dukaan-desi",
+      "name": "Dukaan Desi",
+      "category": "business",
+      "note": "Warm cream · desi stamp",
+      "file": "styles/dukaan-desi.json",
+      "thumb": "thumbs/dukaan-desi.jpg",
+      "rev": "e9418d9f75"
+    },
+    {
+      "id": "eid-chand",
+      "name": "Eid ka Chand",
+      "category": "festival",
+      "note": "Teal night · golden moonlight",
+      "file": "styles/eid-chand.json",
+      "thumb": "thumbs/eid-chand.jpg",
+      "rev": "e1d630056a"
+    },
+    {
+      "id": "holi-rang",
+      "name": "Holi Rang",
+      "category": "festival",
+      "note": "Bright colours · sticker words",
+      "file": "styles/holi-rang.json",
+      "thumb": "thumbs/holi-rang.jpg",
+      "rev": "989713317e"
+    },
+    {
+      "id": "ishq-sitara",
+      "name": "Ishq Sitara",
+      "category": "love",
+      "note": "Starry night · glowing pink word",
+      "file": "styles/ishq-sitara.json",
+      "thumb": "thumbs/ishq-sitara.jpg",
+      "rev": "0ba903207e"
+    },
+    {
+      "id": "jeet",
+      "name": "Jeet",
+      "category": "motivation",
+      "note": "Black and red · hard hitting",
+      "file": "styles/jeet.json",
+      "thumb": "thumbs/jeet.jpg",
+      "rev": "f7b2f455db"
+    },
+    {
+      "id": "kalam-raat",
+      "name": "Kalam aur Raat",
+      "category": "shayari",
+      "note": "Ink black · written as it is said",
+      "file": "styles/kalam-raat.json",
+      "thumb": "thumbs/kalam-raat.jpg",
+      "rev": "4dbf608430"
+    },
+    {
+      "id": "mandir-deep",
+      "name": "Mandir Deep",
+      "category": "bhakti",
+      "note": "Temple lamps · golden word",
+      "file": "styles/mandir-deep.json",
+      "thumb": "thumbs/mandir-deep.jpg",
+      "rev": "a481c75c97"
+    },
+    {
+      "id": "mohabbat",
+      "name": "Mohabbat",
+      "category": "love",
+      "note": "Deep maroon · golden italic word",
+      "file": "styles/mohabbat.json",
+      "thumb": "thumbs/mohabbat.jpg",
+      "rev": "2d90234c52"
+    },
+    {
+      "id": "offer-blast",
+      "name": "Offer Blast",
+      "category": "business",
+      "note": "Yellow sale · red price box",
+      "file": "styles/offer-blast.json",
+      "thumb": "thumbs/offer-blast.jpg",
+      "rev": "7a232d7e84"
+    },
+    {
+      "id": "om-shanti",
+      "name": "Om Shanti",
+      "category": "bhakti",
+      "note": "Saffron glow · calm words",
+      "file": "styles/om-shanti.json",
+      "thumb": "thumbs/om-shanti.jpg",
+      "rev": "7d01862717"
+    },
+    {
+      "id": "pahad",
+      "name": "Pahad",
+      "category": "motivation",
+      "note": "Mountain blue · steady rise",
+      "file": "styles/pahad.json",
+      "thumb": "thumbs/pahad.jpg",
+      "rev": "a22f228ee9"
+    },
+    {
+      "id": "party-time",
+      "name": "Party Time",
+      "category": "birthday",
+      "note": "Purple party · word in a pink box",
+      "file": "styles/party-time.json",
+      "thumb": "thumbs/party-time.jpg",
+      "rev": "d71e2be1c2"
+    },
+    {
+      "id": "purana-kagaz",
+      "name": "Purana Kagaz",
+      "category": "shayari",
+      "note": "Old paper · ink red word",
+      "file": "styles/purana-kagaz.json",
+      "thumb": "thumbs/purana-kagaz.jpg",
+      "rev": "21d530708c"
+    },
+    {
+      "id": "shaam",
+      "name": "Shaam",
+      "category": "shayari",
+      "note": "Dusk purple-pink · gentle drift",
+      "file": "styles/shaam.json",
+      "thumb": "thumbs/shaam.jpg",
+      "rev": "2dbab910d9"
+    },
+    {
+      "id": "shyam-neela",
+      "name": "Shyam Neela",
+      "category": "bhakti",
+      "note": "Krishna blue · soft lights",
+      "file": "styles/shyam-neela.json",
+      "thumb": "thumbs/shyam-neela.jpg",
+      "rev": "a278ef9a53"
+    },
+    {
+      "id": "subah-josh",
+      "name": "Subah ka Josh",
+      "category": "motivation",
+      "note": "Sunrise orange · bold words",
+      "file": "styles/subah-josh.json",
+      "thumb": "thumbs/subah-josh.jpg",
+      "rev": "af46ba047a"
+    },
+    {
+      "id": "sunehra-jashn",
+      "name": "Sunehra Jashn",
+      "category": "birthday",
+      "note": "Black and gold · big capitals",
+      "file": "styles/sunehra-jashn.json",
+      "thumb": "thumbs/sunehra-jashn.jpg",
+      "rev": "ef7a76cb29"
+    },
+    {
+      "id": "tanhai",
+      "name": "Tanhai",
+      "category": "sad",
+      "note": "Black and grey · quiet rain",
+      "file": "styles/tanhai.json",
+      "thumb": "thumbs/tanhai.jpg",
+      "rev": "80f02772f7"
+    },
+    {
+      "id": "toota-dil",
+      "name": "Toota Dil",
+      "category": "sad",
+      "note": "Dark red · hand-written word",
+      "file": "styles/toota-dil.json",
+      "thumb": "thumbs/toota-dil.jpg",
+      "rev": "bb9991956c"
+    }
+  ]
+}

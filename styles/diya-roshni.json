@@ -1,0 +1,57 @@
+{
+  "id": "diya-roshni",
+  "name": "Diya Roshni",
+  "category": "festival",
+  "note": "Diwali gold · warm sparkles",
+  "sample": "Shubh Deepawali",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#1A0A00",
+      "bg2": "#5A2600",
+      "text": "#FFE9C4",
+      "dim": "#E3BE8A",
+      "hero": "gold",
+      "heroNumber": "gold",
+      "light": "#FFC861"
+    }
+  ],
+  "anims": {
+    "normal": "bloom",
+    "hero": "zoomIn",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0.2,
+    "glow": 0.5,
+    "particles": {
+      "kind": "sparkle",
+      "count": 20
+    }
+  },
+  "follow": "tint"
+}

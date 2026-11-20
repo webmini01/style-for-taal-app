@@ -1,0 +1,58 @@
+{
+  "id": "shaam",
+  "name": "Shaam",
+  "category": "shayari",
+  "note": "Dusk purple-pink · gentle drift",
+  "sample": "Shaam ho gayi teri yaad mein",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Kalam",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Kalam",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#2E1A47",
+      "bg2": "#C06C84",
+      "text": "#FFF1F4",
+      "dim": "#E3C2CF",
+      "hero": "#FFD3B6",
+      "heroNumber": "#FFD3B6",
+      "glow": "rgba(255,200,170,0.45)",
+      "light": "#FFE3D3"
+    }
+  ],
+  "anims": {
+    "normal": "sway",
+    "hero": "bloom",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.35,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.3,
+    "particles": {
+      "kind": "bokeh",
+      "count": 8
+    }
+  },
+  "follow": "tint"
+}

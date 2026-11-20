@@ -1,0 +1,57 @@
+{
+  "id": "kalam-raat",
+  "name": "Kalam aur Raat",
+  "category": "shayari",
+  "note": "Ink black · written as it is said",
+  "sample": "Kuch baatein ankahi",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#0E0E12",
+      "bg2": "#24242E",
+      "text": "#ECE6DA",
+      "dim": "#A39C8F",
+      "hero": "#E8C77A",
+      "heroNumber": "#E8C77A",
+      "light": "#ECE6DA"
+    }
+  ],
+  "anims": {
+    "normal": "write",
+    "hero": "write",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0.05,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "dust",
+      "count": 10
+    }
+  },
+  "follow": "underline"
+}

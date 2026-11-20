@@ -1,0 +1,58 @@
+{
+  "id": "offer-blast",
+  "name": "Offer Blast",
+  "category": "business",
+  "note": "Yellow sale · red price box",
+  "sample": "Aaj 50% off",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Anton",
+        "weight": 400,
+        "upper": true
+      },
+      "hero": {
+        "family": "Anton",
+        "weight": 400,
+        "upper": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Khand",
+        "weight": 700
+      },
+      "hero": {
+        "family": "Khand",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FFD000",
+      "bg2": "#FFE866",
+      "text": "#111111",
+      "dim": "#3A3A3A",
+      "hero": "#FFFFFF",
+      "heroNumber": "#FFFFFF",
+      "heroBox": "#E10600"
+    }
+  ],
+  "anims": {
+    "normal": "slam",
+    "hero": "stamp",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.15,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0
+  },
+  "heroStyle": "box",
+  "follow": "pulse",
+  "punch": 0.025,
+  "maxWordsPerScene": 3
+}

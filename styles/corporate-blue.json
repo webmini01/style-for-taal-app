@@ -1,0 +1,52 @@
+{
+  "id": "corporate-blue",
+  "name": "Corporate Blue",
+  "category": "business",
+  "note": "Clean navy · line under each word",
+  "sample": "Aapka bharosa hamari taakat",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Inter",
+        "weight": 700
+      },
+      "hero": {
+        "family": "Inter",
+        "weight": 800
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 800
+      },
+      "hero": {
+        "family": "Mukta",
+        "weight": 800
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#0A2540",
+      "bg2": "#123C66",
+      "text": "#FFFFFF",
+      "dim": "#A9C1DA",
+      "hero": "#4FC3F7",
+      "heroNumber": "#4FC3F7"
+    }
+  ],
+  "anims": {
+    "normal": "rise",
+    "hero": "pop",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.25,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0
+  },
+  "follow": "underline"
+}

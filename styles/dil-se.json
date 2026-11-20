@@ -1,0 +1,57 @@
+{
+  "id": "dil-se",
+  "name": "Dil Se",
+  "category": "love",
+  "note": "Soft pink · heart by the key word",
+  "sample": "Dil se tumhara",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Rozha One",
+        "weight": 400
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#FFD6E0",
+      "bg2": "#FFF2F6",
+      "text": "#5A1030",
+      "dim": "#8A4A62",
+      "hero": "#E0115F",
+      "light": "#FF7FA8"
+    }
+  ],
+  "anims": {
+    "normal": "rise",
+    "hero": "stamp",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.1,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "hearts",
+      "count": 8
+    }
+  },
+  "heroStyle": "heart",
+  "follow": "pulse"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "pahad",
+  "name": "Pahad",
+  "category": "motivation",
+  "note": "Mountain blue · steady rise",
+  "sample": "Mehnat ka koi shortcut nahi",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Khand",
+        "weight": 700,
+        "upper": true,
+        "tracking": 0.04
+      },
+      "hero": {
+        "family": "Khand",
+        "weight": 700,
+        "upper": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Khand",
+        "weight": 700
+      },
+      "hero": {
+        "family": "Khand",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#0F2027",
+      "bg2": "#2C5364",
+      "text": "#E6F1F5",
+      "dim": "#9FBAC4",
+      "hero": "#FFD166",
+      "heroNumber": "#FFD166",
+      "light": "#CFE3EA"
+    }
+  ],
+  "anims": {
+    "normal": "rise",
+    "hero": "track",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.4,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0,
+    "particles": {
+      "kind": "dust",
+      "count": 12
+    }
+  },
+  "follow": "lift"
+}

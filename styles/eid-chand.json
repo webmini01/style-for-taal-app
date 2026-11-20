@@ -1,0 +1,57 @@
+{
+  "id": "eid-chand",
+  "name": "Eid ka Chand",
+  "category": "festival",
+  "note": "Teal night · golden moonlight",
+  "sample": "Eid Mubarak",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Poppins",
+        "weight": 600
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Mukta",
+        "weight": 500
+      },
+      "hero": {
+        "family": "Amita",
+        "weight": 700
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#062A2A",
+      "bg2": "#0F5B57",
+      "text": "#E8F6F3",
+      "dim": "#A8CFC8",
+      "hero": "grad:#FFF3C4,#D4A84B",
+      "heroNumber": "#F3D27A",
+      "light": "#FFE9A8"
+    }
+  ],
+  "anims": {
+    "normal": "fade",
+    "hero": "bloom",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0,
+    "vignette": 0.45,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0.35,
+    "particles": {
+      "kind": "sparkle",
+      "count": 14
+    }
+  },
+  "follow": "tint"
+}

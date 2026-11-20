@@ -1,0 +1,55 @@
+{
+  "id": "purana-kagaz",
+  "name": "Purana Kagaz",
+  "category": "shayari",
+  "note": "Old paper · ink red word",
+  "sample": "Woh pehli mulaqat",
+  "fonts": {
+    "latn": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    },
+    "deva": {
+      "normal": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400
+      },
+      "hero": {
+        "family": "Tiro Devanagari Hindi",
+        "weight": 400,
+        "italic": true
+      }
+    }
+  },
+  "palettes": [
+    {
+      "bg": "#E9DCC0",
+      "bg2": "#F6EEDB",
+      "text": "#3A2A18",
+      "dim": "#6E5A40",
+      "hero": "#7A1F1F",
+      "heroNumber": "#7A1F1F"
+    }
+  ],
+  "anims": {
+    "normal": "write",
+    "hero": "fade",
+    "number": "counter"
+  },
+  "fx": {
+    "grain": 0.08,
+    "vignette": 0.3,
+    "letterbox": 0,
+    "leak": 0,
+    "glow": 0
+  },
+  "follow": "tint",
+  "heroRule": true
+}
